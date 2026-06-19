@@ -1,0 +1,10 @@
+# 敏感配置
+.env
+
+# 数据文件
+raw_data/
+cleaned_data/
+
+# Python
+__pycache__/
+*.pyc
